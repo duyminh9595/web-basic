@@ -1,0 +1,16 @@
+.container{
+    border: 3px solid #3363BE;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.col-sm-8{
+    border-right: 3px solid #3363BE;
+    border-bottom: 3px solid #3363BE;
+    padding: 0;
+}
+p{
+    width: auto;
+    padding-left: 5px;
+    padding-right:5px;
+    border-right : 1px solid #3363BE;
+}
