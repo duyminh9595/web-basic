@@ -1,0 +1,14 @@
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\bin\Debug\Final-HDT.exe.config
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\bin\Debug\Final-HDT.exe
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\bin\Debug\Final-HDT.pdb
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\obj\Debug\Final-HDT.csproj.AssemblyReference.cache
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\obj\Debug\Final-HDT.csproj.CoreCompileInputs.cache
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\obj\Debug\Final-HDT.exe
+C:\Users\duyminh\source\repos\Final-HDT\Final-HDT\obj\Debug\Final-HDT.pdb
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\bin\Debug\Final-HDT.exe.config
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\bin\Debug\Final-HDT.exe
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\bin\Debug\Final-HDT.pdb
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\obj\Debug\Final-HDT.csproj.AssemblyReference.cache
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\obj\Debug\Final-HDT.csproj.CoreCompileInputs.cache
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\obj\Debug\Final-HDT.exe
+C:\Users\duyminh\Documents\GitHub\web-basic\LapTrinhHuongDoiTuong-ThayMinh\Final-HDT\obj\Debug\Final-HDT.pdb

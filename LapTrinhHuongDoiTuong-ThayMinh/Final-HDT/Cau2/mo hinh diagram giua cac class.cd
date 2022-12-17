@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Final_HDT.Cau2.Xe">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAACEAAAAAAEABAAAAA=</HashCode>
+      <FileName>Cau2\Xe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_HDT.Cau2.XeKhach">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAACAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cau2\XeKhach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_HDT.Cau2.XeTai">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAABAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cau2\XeTai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
