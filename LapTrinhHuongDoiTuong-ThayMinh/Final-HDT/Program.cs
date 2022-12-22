@@ -10,9 +10,10 @@ namespace Final_HDT
 {
     class Program
     {
+        //dcsa
         static void Main(string[] args)
         {
-            while(true)
+            while (true)
             {
                 int chonCau;
                 Console.WriteLine("Moi ban chon cau muon thuc hien: \n1.Cau 1\n2.Cau 2 \n3. Exit");
